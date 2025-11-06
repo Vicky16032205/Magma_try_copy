@@ -1,5 +1,7 @@
 # This_Is_Magma
 
+**🚀 [Live Demo](https://vicky16032205.github.io/Magma_try_copy/)
+
 A small static website (HTML, CSS, JavaScript) for experimentation and demos.
 
 Table of contents
